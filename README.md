@@ -38,6 +38,48 @@ VoiceGenius is a cutting-edge, voice-activated digital assistant that combines a
 - Python 3.x installed
 - API keys for WolframAlpha and NewsAPI
 - Internet connection
+## 🛠️ Tech Stack
+
+### Core Language
+- Python 3.x
+
+### Standard Libraries
+- os: For operating system dependent functionality
+- time: For time-related functions
+- subprocess: To run new applications or programs
+- json: For JSON data handling
+- datetime: For date and time operations
+
+### Web and API Interaction
+- requests: For making HTTP requests
+- wolframalpha: API for complex computations and data queries
+- webbrowser: For controlling the default web browser
+- wikipedia: For accessing and parsing data from Wikipedia
+
+### News Integration
+- newsapi-python: Python client library for NewsAPI
+
+### Speech Recognition and Text-to-Speech
+- speech_recognition: For converting spoken words to text
+- pyttsx3: Text-to-speech conversion library
+
+### Additional Libraries
+- These may be required depending on your specific implementation:
+  - numpy: For numerical operations
+  - pandas: For data manipulation and analysis
+  - matplotlib: For creating static, animated, and interactive visualizations
+
+### Development Tools
+- Git: For version control
+- GitHub: For repository hosting and collaboration
+
+### API Services
+- WolframAlpha API
+- NewsAPI
+
+### Potential Additions
+- Flask or Django: If you decide to create a web interface
+- SQLite or PostgreSQL: If you implement local data storage
 
 ## 🔧 Installation
 
